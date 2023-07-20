@@ -1,8 +1,7 @@
 # FinSearch
 Monte Carlo simulation for European call option pricing using the Black-Scholes model.
 
-Arguments:
-
+##Arguments:
 S -- current price of the underlying asset
 
 K -- strike price of the option
@@ -15,7 +14,5 @@ T -- time to expiration of the option
 
 num_simulations -- number of simulations to run
 
-
-Returns:
-
+##Returns:
 option_price -- estimated price of the option
