@@ -1,4 +1,4 @@
-# FinSearch
+# FinSearch's Monte Carlo Simulation Demonstration
 Monte Carlo simulation for European call option pricing using the Black-Scholes model.
 
 ## Arguments:
