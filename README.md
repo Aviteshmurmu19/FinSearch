@@ -1,9 +1,12 @@
 <div align=center>
-<img src='https://badges.strrl.dev/visits//Aviteshmurmu19/FinSearch'>
-</div>
+
+
 
 # FinSearch's Monte Carlo Simulation Demonstration
-Monte Carlo simulation for European call option pricing using the Black-Scholes model.
+<img src='https://badges.strrl.dev/visits//Aviteshmurmu19/FinSearch'></img> <img src='https://img.shields.io/badge/Python-badge?logo=PYTHON&logoColor=yellow&labelColor=grey&color=blue'></img> <img src='https://img.shields.io/github/repo-size/Aviteshmurmu19/FinSearch'></img>
+
+### Monte Carlo simulation for European call option pricing using the Black-Scholes model.
+</div>
 
 ## Arguments:
 S -- current price of the underlying asset
