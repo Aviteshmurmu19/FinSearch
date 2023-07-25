@@ -1,3 +1,5 @@
+[![Visits Badge](https://badges.strrl.dev/visits/Aviteshmurmu19/FinSearch)](https://badges.strrl.dev)
+
 # FinSearch's Monte Carlo Simulation Demonstration
 Monte Carlo simulation for European call option pricing using the Black-Scholes model.
 
